@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **494** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
+A collaborative list of **499** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
  
 Jump to 
  
@@ -124,6 +124,9 @@ Projects that are not in English have a flag
 - Cortado: Track your caffeine consumption habits 🔥
   - https://github.com/lazerwalker/cortado
   - https://itunes.apple.com/app/cortado/id969899327
+- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything. 🔶
+  - https://github.com/PiXeL16/CountItApp
+  - https://itunes.apple.com/app/id1098893335
 - Done: Data sharing between a WatchKit app and its main app using Realm 🔶
   - https://github.com/FancyPixel/done-swift
 - FlickrWatch: Apple Watch face using Flickr API 
@@ -306,6 +309,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/id511327336
 - Bequest: Create and replay HTTP/S requests 🔶
   - https://github.com/splinesoft/Bequest
+- Blink: Mobile shell terminal based on Mosh 
+  - https://github.com/blinksh/blink
 - Charter: A Swift mailing list client for iPhone and iPad 🔶🔥🔥
   - https://github.com/matthewpalmer/Charter
   - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
@@ -501,6 +506,10 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/scary-flight/id824428528
 - SceneKitFrogger 🔶
   - https://github.com/devindazzle/SceneKitFrogger
+- SHMUP: 3D multiplatform game written primarily in C 🔥
+  - https://github.com/fabiensanglard/Shmup
+  - http://fabiensanglard.net/shmup/
+  - https://itunes.apple.com/app/shmup/id337663605
 - Skeleton Key: A puzzle game where you must shift keys around a board to unlock treasure chests. 🔥
   - https://github.com/insurgentgames/Skeleton-Key-iOS
 - Spare Parts: Simple 2D point and line physics using Verlet integration 
@@ -519,7 +528,7 @@ Projects that are not in English have a flag
   - http://7b5labs.com/xpilot.git/
   - http://7b5labs.com/xpilotiphone
   - https://itunes.apple.com/app/id322114791
-- 翻翻看: Concentration game 🔶🇨🇳🔥
+- Concentration game (翻翻看) 🔶🇨🇳🔥
   - https://github.com/geek5nan/FanFanSwift
 
 ### Emulators 
@@ -1098,6 +1107,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/imod/MyAwesomeChecklist
 - RealmToDo: A small todo list with Realm integration 🔶
   - https://github.com/pietbrauer/RealmToDo
+- Send To Me: Share content to your email with a single tap. 🔶
+  - https://github.com/PiXeL16/SendToMe
+  - https://itunes.apple.com/app/id1100027787
 - Swift Off: Firebase powered to do app built in Swift, includes tutorial 🔶
   - https://github.com/goprimer/swift-off-todo
 - Task Coach: A simple toto manager designed for composite tasks. 
@@ -1252,6 +1264,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/BalestraPatrick/SwiftBlog
 - Tether: Tethering for non-jailbroken iOS Devices over USB 
   - https://github.com/chrisballinger/Tether-iOS
+- Themoji: Use Emojis to communicate while traveling 
+  - https://github.com/themoji/ios
+  - https://themoji.me/
 - TheReservist: Check availability of iPhones 🔶
   - https://github.com/kimar/TheReservist
 - Theseus: Personal analytics tool 🔥🔥🔥
@@ -1565,6 +1580,9 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything. 🔶
+  - https://github.com/PiXeL16/CountItApp
+  - https://itunes.apple.com/app/id1098893335
 - GitHub API Client: GitHub client using MVVM and RxSwift 🔶🔥
   - https://github.com/tailec/boilerplate
 - Kiosk: The Artsy auction kiosk app, uses RxSwift 🔶🔥🔥🔥🔥
